@@ -10,5 +10,11 @@ The study was performed with an iPhone 7. To use it, it is required to have an i
 ## Pressure Study
 The xcode project for the docking study described in the paper. 
 
+To Test it as a demo: 
+- First open it with as an xcode project and deploy it to an iPhone that has pressure sensing.
+- Open the program and if being asked, enter 1 as the participant Id.
+- You will first need to go through the process and callibrate your pressure level.
+- For detailed interaction techniques, please refer to our paper.
+
 ## PseudoPressure Study
 The xcode project for the pseudo-pressure study described in the paper. 
